@@ -3,6 +3,11 @@
 # GLaDOS Personality Core
 This is a project dedicated to building a real-life version of GLaDOS!
 
+// Fork note: Trying to implement vision modell like this
+<img width="794" height="389" alt="image" src="https://github.com/user-attachments/assets/266a0ca6-a9ba-40bb-9dc2-f36bfb911f56" />
+
+
+
 NEW: If you want to chat or join the community, [Join our discord!](https://discord.com/invite/ERTDKwpjNB) If you want to support, [sponsor the project here!](https://ko-fi.com/dnhkng)
 
 https://github.com/user-attachments/assets/c22049e4-7fba-4e84-8667-2c6657a656a0
